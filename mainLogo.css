@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+h1 a{
+    text-decoration: none;
+    color: yellow;
+    text-shadow: darkgray 2px 3px;
+}
+h2{
+    text-align: center;
+    border-bottom: solid 1px black;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
